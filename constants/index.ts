@@ -98,4 +98,7 @@ export const manufacturers = [
         { title: "Facebook", url: "/" },
       ],
     },
-  ];
+];
+  
+
+
